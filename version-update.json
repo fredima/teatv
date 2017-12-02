@@ -1,10 +1,10 @@
 {
   "app": "TeaTV",
-  "version": "1.0.0",
-  "zip": "https://github.com/TeaTV/TeaTV-Windows/releases/tag/v1.0.0",
+  "version": "1.1.0",
+  "zip": "https://github.com/TeaTV/TeaTV-Windows/releases/tag/v1.1.0",
   "bigUpdate": true,
   "require": {
     "minVersion": "1.0.0",
-    "minZip": "https://github.com/TeaTV/TeaTV-Windows/releases/tag/v1.0.0"
+    "minZip": "https://github.com/TeaTV/TeaTV-Windows/releases/tag/v1.1.0"
   }
 }
