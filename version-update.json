@@ -4,7 +4,7 @@
   "zip": "https://github.com/TeaTV/TeaTV-Windows/releases/tag/v1.1.0",
   "bigUpdate": true,
   "require": {
-    "minVersion": "1.0.0",
+    "minVersion": "1.1.0",
     "minZip": "https://github.com/TeaTV/TeaTV-Windows/releases/tag/v1.1.0"
   }
 }
