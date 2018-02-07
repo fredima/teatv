@@ -1,10 +1,10 @@
 ## Dear users
 
-We recently receive contribution offers from some of you guys. We really appriciate it. Your help means the world to us.
+We have recently received contribution offers from some of you guys. We really appreciate it. Your help means the world to us.
 
-TeaTV applications are not (yet) open source. We have a plan to support add-ons, from that you can make your own add-on and submit in our store or install locally. 
+TeaTV applications are not (yet) open source. We have a plan to support add-ons, from which you can make your own add-on and submit in our store or install locally.
 
-It's not implemented for now. So if you want to contribute. Please follow our temporary documentation below. Thank you so much!
+It's not implemented for now. So if you want to contribute, please follow our temporary documentation below. Thank you so much!
 
 ## Contribution guide
 
