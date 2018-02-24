@@ -44,7 +44,6 @@ const search = info => {
 
 module.exports = { search };
 ```
-- each provider is on one js file
 
 - Leave the events function, only change code inside function search
 
@@ -71,7 +70,6 @@ const youNameTheFunction = async embedLink => {
 module.exports = youNameTheFunction;
 
 ```
-- each host is on one js file
 
 - function `youNameTheFunction(embedLink: String) : Promise<linkObj>`
 
@@ -86,3 +84,13 @@ module.exports = youNameTheFunction;
         + `data`: Object. Required. (can be empty object)
             + `fileName`: String
             + `cookie`: String
+            
+
+
+### Where can I find providers & hosts
+
+- Google
+- Our [Todo providers](https://github.com/TeaTV/TeaTV-macOS/blob/master/misc/todo_providers.json) list & [Todo hosts](https://github.com/TeaTV/TeaTV-macOS/blob/master/misc/todo_host.json) list
+
+### Contributors
+- Aiman Shaharuddin
