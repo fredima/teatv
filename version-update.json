@@ -1,11 +1,11 @@
 {
   "app": "TeaTV",
-  "version": "1.4.10",
-  "zip": "https://github.com/TeaTV/TeaTV-Windows/releases/download/v.1.4.0/TeaTV-v1.4.10.zip",
+  "version": "1.4.11",
+  "zip": "https://github.com/TeaTV/TeaTV-Windows/releases/download/v.1.4.0/TeaTV-v1.4.11.zip",
   "bigUpdate": false,
   "require": {
     "minVersion": "1.4.0",
     "minZip": "https://github.com/TeaTV/TeaTV-Windows/releases/tag/v.1.4.0"
   },
-  "changeLog": "\nChangelog:\n- Add more providers & hosts\n- Contributors credit\n"
+  "changeLog": "\nChangelog:\n- Show more info about OpenLoad links"
 }
