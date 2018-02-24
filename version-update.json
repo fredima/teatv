@@ -1,11 +1,11 @@
 {
   "app": "TeaTV",
-  "version": "1.4.9",
-  "zip": "https://github.com/TeaTV/TeaTV-Windows/releases/download/v.1.4.0/TeaTV-v1.4.9.zip",
+  "version": "1.4.10",
+  "zip": "https://github.com/TeaTV/TeaTV-Windows/releases/download/v.1.4.0/TeaTV-v1.4.10.zip",
   "bigUpdate": false,
   "require": {
     "minVersion": "1.4.0",
     "minZip": "https://github.com/TeaTV/TeaTV-Windows/releases/tag/v.1.4.0"
   },
-  "changeLog": "\n- Add more providers\n- Add Drag to Scroll Feature (workaround for scrolling bug)\n- Minor UI changes\n"
+  "changeLog": "\nChangelog:\n- Add more providers & hosts\n- Contributors credit\n"
 }
