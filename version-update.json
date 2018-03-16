@@ -6,6 +6,5 @@
   "require": {
     "minVersion": "1.5.0",
     "minZip": "https://github.com/TeaTV/TeaTV-Windows/releases/tag/v1.5.0"
-  },
-  "changeLog": "\nChangelog:\n- Show more info about OpenLoad links"
+  }
 }
